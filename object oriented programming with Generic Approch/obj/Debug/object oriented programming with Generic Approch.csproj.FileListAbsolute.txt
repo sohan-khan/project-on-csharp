@@ -1,0 +1,6 @@
+D:\1261162\Project\object oriented programming with Generic Approch\bin\Debug\object oriented programming with Generic Approch.exe.config
+D:\1261162\Project\object oriented programming with Generic Approch\bin\Debug\object oriented programming with Generic Approch.exe
+D:\1261162\Project\object oriented programming with Generic Approch\bin\Debug\object oriented programming with Generic Approch.pdb
+D:\1261162\Project\object oriented programming with Generic Approch\obj\Debug\object oriented programming with Generic Approch.csproj.CoreCompileInputs.cache
+D:\1261162\Project\object oriented programming with Generic Approch\obj\Debug\object oriented programming with Generic Approch.exe
+D:\1261162\Project\object oriented programming with Generic Approch\obj\Debug\object oriented programming with Generic Approch.pdb
